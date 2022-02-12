@@ -1,0 +1,40 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-color:cornsilk;
+}
+h1{
+    color: indianred;
+    background-color: black;
+
+}
+p{
+    font-size: 20px;
+    font-weight: 700;
+    
+}
+img{
+    height:350px;
+    width: 350px;
+}
+/* to call class start with .dot*/
+
+.abc{
+    font-size: 18px;
+    color:blue;
+    background-color:aliceblue;
+}
+/* to call iD start  with #*/
+#xyz{
+    font-size: 35px;
+    color: cornflowerblue;
+    background-color: green;
+}
+.qwe{
+    background-color: gold;
+}
+h1{
+    display: inline-block;
+}
+a{
+    display: block;
+}
